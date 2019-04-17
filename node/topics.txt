@@ -1,0 +1,32 @@
+NODE JS
+--------------------------------------------------------------------
+1. Installation and How to Run
+    NodeJs SDK
+    CLI Tools (cmd/cmder)
+    Code Editor (Notepad/Vs Code/Sublime Text/Atom)
+    How To Run
+        -> Interactive Shell
+        -> Script Mode
+2. Introduction
+    NodeJS            [JavaScript Engine(V8)+ (Extra C++ Modules)]
+    JavaScript        [Browser's JavaScript Engine (V8/Spider Monkey/WebKit/Chakra)]   
+    Basic Javascript (Dynamic Language)
+        Types
+            Integer
+            Float
+            String
+            Functions
+            Undefined (Null)
+        Variables
+            var a=12;
+            var b="Hello"
+        Input and Output
+        Desiscion Making
+        Loops and Jumps
+        Arrays
+        Functions
+        Objects
+3. Node Modules and NPM
+4. Node's Programming Modules
+5. Node Core Modules
+6. Building a Node's Web Server
