@@ -1,0 +1,9 @@
+MEAN Stack
+-----------------------------------------------------------
+1. Node Js
+2. Angular Js
+3. Express (NodeJs)
+4. MongoDb/MySql
+5. MEAN App
+    AnglarJs
+    Angular
