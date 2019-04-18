@@ -21,9 +21,36 @@ NODE JS
             var a=12;
             var b="Hello"
         Input and Output
-        Desiscion Making
+            process.argv[]
+            console.log()/process.stdout.write()
+        Decision Making
+            inline
+                ternary operator
+            multiple line
+                if
+                    simple if           [True]
+                    if with else        [True/False]    
+                    nested if           [Multiple Conditions]
+                        true ladder
+                        false ladder
+                        true/false ladder
+                    if with elseif     [Multiple Conditions]
+                        false ladder
+                switch
         Loops and Jumps
+            Loops
+                Condition Controlled
+                    while
+                    do While
+                Range Controlled
+                    for
+                Collections Controlled
+                    foreach
+            Jumps
+                break
+                continue
         Arrays
+            
         Functions
         Objects
 3. Node Modules and NPM
